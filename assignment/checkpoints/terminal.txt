@@ -14,12 +14,14 @@ cd
 mkdir
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-nothing, the files inside the folder listed.
+Nothing, will be blank.
+The files inside the folder listed.
 
 # 6 - What is a quick way to create a new file?
 touch
 
 # 7 - Run 'git --version' in your terminal. What is the output?
+git version 2.30.1 (Apple git-130)
 
 # 8 - Why would you run the command 'git status'?
 to see if changes have been made since tracking was last saved. check for modifications
@@ -28,4 +30,4 @@ to see if changes have been made since tracking was last saved. check for modifi
 stages a commit of current folder
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push origin master 
+git push origin master
