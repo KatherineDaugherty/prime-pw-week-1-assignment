@@ -1,5 +1,21 @@
-/* Give your page a fun background color */
+body
+  {background-color: royalblue;
 
+}
+
+p {
+  color:white;
+}
+
+header
+  {background-color: white;
+  text-align: center;
+}
+h2{ text-align: center}
+
+footer
+  {background-color: teal;
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
