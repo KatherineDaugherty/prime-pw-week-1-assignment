@@ -27,7 +27,7 @@ git version 2.30.1 (Apple git-130)
 to see if changes have been made since tracking was last saved. check for modifications
 
 # 9 - What does the command 'git add .' do?
-stages a commit of current folder
+stages a commit for the current folder
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git push origin master

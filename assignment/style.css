@@ -5,26 +5,22 @@ body
 
 p {
   color:white;
+  font-style: italic;
 }
 
 header
   {background-color: white;
+  padding: 2%;
   text-align: center;
 }
-h2{ text-align: center}
 
-img {
-  border:
+h2 { text-align: center
 }
+ul {font-family: fantasy;}
+img{border-style: groove;
+  }
+
 footer
-  {background-color: teal;
+{background-color: teal;
+    padding: 2%;
 }
-/* Make the header and footer a different color from the background */
-
-/* Align the h1 containing your name in the center of the header*/
-
-/* Make your p tag a different color and italic */
-
-/* Put a border around your image */
-
-/* Change the font-family of your list */
